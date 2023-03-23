@@ -1,0 +1,9 @@
+1.Write a Bug Report for a bug in the Whatsapp mobile application that is preventing users from sending video files in group chats?
+(Note: Consider that this workflow is working fine in private chat)
+Bug Report: Whatsapp mobile application not sending video files in group chats. Users are unable to send video files in group chats on the Whatsapp mobile application. This issue is not present in private chats, where video files can be sent without any problem.	
+Steps to Reproduce:
+1.Open Whatsapp mobile application on any mobile device.
+2.Create a new group chat with at least one participant.
+3.Tap on the attachment icon to send a video file.
+4.Select a video file from the gallery and tap on the send button.
+5.Observe that the video file is not sent and an error message is displayed.

@@ -1,0 +1,12 @@
+1.Scalar Functions
+Scalar functions are functions that operate on a single input value and return a single output value.
+Some of the commonly used scalar functions in SQL includes:
+*UCASE()
+*LCASE()
+*MID()
+*LENGTH()
+*ROUND()
+*NOW()
+*FORMAT()
+Query - Scalar Function
+SELECT UPPER('hello world') AS result;

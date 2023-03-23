@@ -1,0 +1,7 @@
+2.Write a bug report for a bug in the login page that the submit button is not working?
+Users are unable to log in to the application due to a malfunctioning submit button on the login page. After entering their login credentials, users click on the "Submit" button, but nothing happens. The button appears to be unresponsive, and the login process is not completed.
+Steps to Reproduce:
+1.Open the application
+2.Go to the login page
+3.Enter valid login credentials
+4.Click on the "Submit" button
